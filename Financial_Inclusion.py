@@ -62,7 +62,7 @@ st.markdown("<h1 style = 'color: #2B2A4C; text-align: center; font-family:montse
 st.markdown("<h3 style = 'margin: -15px; color: #2B2A4C; text-align: center; font-family:montserrat'>Financial inclusion Built By Datapsalm</h3>",unsafe_allow_html=True)
 
 st.markdown("<br></br>", unsafe_allow_html=True)
-st.image('pngwing.com (6).png',  width = 650)
+st.image('newss.jpg',  width = 650)
 
 
 st.markdown("<br></br>", unsafe_allow_html=True)
